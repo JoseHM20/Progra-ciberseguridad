@@ -1,0 +1,4 @@
+Usar: smtp-mail.outlook.com
+puerto: 587
+cifrado: STARTTLS
+7f29d386.uanl.edu.mx@amer.teams.ms
