@@ -1,0 +1,2 @@
+EL script que cree esta hecho a base del zoom que tiene mi pantalla (125 porciento)
+Por tanto, de usarse en un dispositivo como mayor o menor cantidad de acercamiento podria presentar errores en coordenadas.
